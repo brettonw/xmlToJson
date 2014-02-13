@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlToJson", "XmlToJson\XmlToJson.csproj", "{2008DA79-F037-48D0-BF46-3A46E4D1F3CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sample", "Sample", "{85C2FD8E-5035-4C9D-A081-558664F5EFFC}"
+	ProjectSection(SolutionItems) = preProject
+		Sample\books.xml = Sample\books.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2008DA79-F037-48D0-BF46-3A46E4D1F3CF}.Debug|x86.ActiveCfg = Debug|x86
+		{2008DA79-F037-48D0-BF46-3A46E4D1F3CF}.Debug|x86.Build.0 = Debug|x86
+		{2008DA79-F037-48D0-BF46-3A46E4D1F3CF}.Release|x86.ActiveCfg = Release|x86
+		{2008DA79-F037-48D0-BF46-3A46E4D1F3CF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
